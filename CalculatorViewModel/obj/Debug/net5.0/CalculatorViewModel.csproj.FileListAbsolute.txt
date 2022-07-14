@@ -1,0 +1,12 @@
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\bin\Debug\net5.0\CalculatorViewModel.deps.json
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\bin\Debug\net5.0\CalculatorViewModel.dll
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\bin\Debug\net5.0\ref\CalculatorViewModel.dll
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\bin\Debug\net5.0\CalculatorViewModel.pdb
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.csproj.AssemblyReference.cache
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.AssemblyInfoInputs.cache
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.AssemblyInfo.cs
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.csproj.CoreCompileInputs.cache
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.dll
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\ref\CalculatorViewModel.dll
+C:\Апи Калькулятор\ApiCalculator\CalculatorViewModel\obj\Debug\net5.0\CalculatorViewModel.pdb
